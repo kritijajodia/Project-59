@@ -1,0 +1,144 @@
+body {
+    background: linear-gradient(#ce93d8 10%, #bbffeb 90%);
+    background-color: #ce93d8;
+    background-repeat: no-repeat;
+  }
+  
+  img {
+    width: 250px;
+    height: 220px;
+    border-width:10px;
+    border-style:solid;
+    padding:5px;
+    
+  }
+  
+  p {
+    font-size: 17px;
+  } 
+  
+
+  
+  
+  #writingconclusion {
+    font-size: 30px;
+  }
+  
+  
+  
+  #abtsection {
+    padding: 30px;
+  }
+  
+  .line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+  }
+
+
+
+  #menu{
+    list-style:none;
+    font-family: 'Yanone Kaffeesatz';
+    position:absolute;
+    top:10px;
+    right:30px;
+    z-index:10;
+    cursor:pointer;
+  }
+
+
+  .links{
+    float:left;
+    color:#ffe0b2;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-right:9px;
+    padding-left:9px;
+    font-family:'Yanone Kaffeesatz';
+    font-size:25px;
+}
+
+.links:hover{
+    background-color:rgb(0, 0, 0);
+}
+
+
+
+#favtitle {
+    text-shadow: 2px 2px #ffe0b2;
+    font-family: 'Oregano';
+    font-size:35px;
+    word-spacing:10px;
+    margin-bottom:-20px;
+    margin-top:-25px;
+
+  }
+
+  h1{
+      font-size:35px;
+      font-family: 'Grenze Gotisch';
+  }
+
+  #writingpart1, #writingpart2{
+      font-size:20px;
+      font-family: 'Atma';
+  }
+
+  #writingconclusion{
+    font-family: 'Metal Mania';
+  }
+
+.abt{
+  font-family: 'Yanone Kaffeesatz';
+  font-size:30px;
+}
+
+a, a:hover, a:focus, a:active{
+  text-decoration:none;
+  color:inherit;
+}
+
+a:hover{
+ color:#ffe0b2;
+
+}
+
+#wikipedia{
+  font-size:35px;
+  color:black;
+}
+
+#h3{
+  font-size:35px;
+  color:black;
+}
+
+hr{
+  color:black;
+  background-color:black;
+}
+
+#wikipedia:hover{
+  color:coral;
+}
+
+
+html{
+  scroll-behavior: smooth;
+}
+
+
+#abttt{
+  font-family: 'Glory';
+ font-size:20px;
+}
+
+h3{
+color:#ffd1b2;
+font-family:'Yanone Kaffeesatz';
+font-size:35px;
+letter-spacing: 2;
+}
